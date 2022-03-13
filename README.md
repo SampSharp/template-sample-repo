@@ -1,2 +1,4 @@
-# sample-template
-Template for sample gamemode repositories
+<name>
+======
+
+This repository contains the <name> sample game mode written using SampSharp.<framework>.
